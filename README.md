@@ -8,3 +8,6 @@ aleatoria, entre ellas las salas:
 Funciones que destacar:
 - Función de salas aleatorias.
 - Función para mirar las vidas que te quedan.
+
+Funciones de mejora:
+- Función que haga que al tener 0 vidas se salga automáticamente del programa.
